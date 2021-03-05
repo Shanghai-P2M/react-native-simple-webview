@@ -1,5 +1,5 @@
 
-package com.quenice.cardview;
+package com.quenice.p2m.cardview;
 
 import java.util.Arrays;
 import java.util.Collections;

@@ -1,5 +1,5 @@
 
-package com.quenice.cardview;
+package com.quenice.p2m.cardview;
 
 import com.facebook.react.bridge.ReactApplicationContext;
 import com.facebook.react.bridge.ReactContextBaseJavaModule;
