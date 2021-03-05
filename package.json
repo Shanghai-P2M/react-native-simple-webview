@@ -1,15 +1,19 @@
 {
-  "name": "react-native-simple-webview",
-  "version": "1.0.4",
+  "name": "@p2m/react-native-simple-webview",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Shanghai-P2M/react-native-simple-webview.git"
+  },
   "keywords": [
     "react-native"
   ],
-  "author": "",
+  "author": "p2m",
   "license": "",
   "peerDependencies": {
     "react-native": "^0.59.10"
